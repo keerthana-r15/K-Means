@@ -1,5 +1,4 @@
 # K  Means clustering with and without using the sklear.cluster.KMeans library</br>
-</br>
 ## K Means (Without Sklearn library) 
 Result of the dataset Mall Customers for input k = 5 </br>
 ![KMean](https://user-images.githubusercontent.com/54510639/131416500-67b3af4e-1be0-463b-80c4-c8078ba55196.png)
